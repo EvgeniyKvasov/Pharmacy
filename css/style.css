@@ -1,0 +1,15 @@
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+footer {
+    margin-top: 40px;
+}
