@@ -4,7 +4,7 @@ $(document).ready(function() {
         let product = $(this).data('product');
         
         $('#cartMessage')
-            .text('✅ ' + product + ' добавлен в корзину')
+            .text(product + ' добавлен в корзину')
             .show(); 
     });
     
